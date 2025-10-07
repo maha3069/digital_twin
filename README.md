@@ -1,5 +1,10 @@
 # 🦾 Digital Twin — Mon Clone Numérique IA
 
+
+
+https://github.com/user-attachments/assets/d3566936-0538-42f3-b241-c414e425342e
+
+
 Un chatbot IA personnel qui connaît tout sur mon parcours (académique, professionnel, publications LinkedIn…) et répond à n’importe quelle question sur moi, comme un vrai assistant ou un jumeau numérique ! Déployé sur AWS avec une architecture serverless moderne.
 
 ## 🧩 Fonctionnalités
