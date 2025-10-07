@@ -1,0 +1,27 @@
+{
+    "full_name": "Maha Hadj Meftah",
+    "name": "Maha",
+    "current_role": "data scientist /ai engineer",
+    "location": "Paris, France",
+    "email": "mahahadmeftah@gmail.com",
+    "linkedin": "linkedin.com/in/maha-hadj-meftah",
+    "specialties": [
+      "data science",
+      "ai engineering",
+      "machine learning",
+      "deep learning",
+      "natural language processing",
+      "computer vision",
+      "data analysis",
+      "data visualization",
+      "data engineering"
+    ],
+    "years_experience": 2,
+    "education": [
+      {
+        "degree": "Computer Science engineer",
+        "institution": "Polytech Angers",
+        "year": "2024"
+      }
+    ]
+  }

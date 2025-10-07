@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "hi",
+    "timestamp": "2025-10-02T18:32:51.471101"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! Welcome to my website. I\u2019m Maha Hadj Meftah, a data scientist and AI engineer. How can I assist you today?",
+    "timestamp": "2025-10-02T18:32:51.471109"
+  },
+  {
+    "role": "user",
+    "content": "tell me about your experience",
+    "timestamp": "2025-10-02T18:33:21.037878"
+  },
+  {
+    "role": "assistant",
+    "content": "Certainly! I have two years of experience in data science and AI. I\u2019m currently focused on Generative AI, where I work on developing innovative solutions for various applications.\n\nHere's a brief overview of my professional background:\n\n- **Apside (Current)**: As an AI Engineer/Data Scientist, I\u2019m developing an automated documentation Generative AI application to improve software traceability. I'm also working on a proof of concept for an insurance chatbot.\n\n- **STMicroelectronics**: I worked as an AI & NLP Engineer, focusing on implementing natural language processing solutions.\n\n- **Omdena**: I played a role as a Machine Learning Engineer, building a travel assistant agent for visitors during the Paris 2024 Olympic Games.\n\n- **Vilmorin-Mikado**: I worked in deep learning and computer vision, contributing to R&D projects.\n\nI have a strong foundation in machine learning, deep learning, computer vision, and NLP, and I enjoy solving real-world problems through data. If you want more details on any specific project or aspect of my experience, feel free to ask!",
+    "timestamp": "2025-10-02T18:33:21.037887"
+  }
+]
